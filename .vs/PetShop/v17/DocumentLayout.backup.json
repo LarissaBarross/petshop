@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\aluno.senai\\Documents\\Petshop\\petshop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CABC8859-C5C2-46F7-BE89-F1BB7C5FB523}|PetShop\\PetShop.csproj|c:\\users\\aluno.senai\\documents\\petshop\\petshop\\petshop\\controllers\\veterinariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CABC8859-C5C2-46F7-BE89-F1BB7C5FB523}|PetShop\\PetShop.csproj|solutionrelative:petshop\\controllers\\veterinariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CABC8859-C5C2-46F7-BE89-F1BB7C5FB523}|PetShop\\PetShop.csproj|c:\\users\\aluno.senai\\documents\\petshop\\petshop\\petshop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CABC8859-C5C2-46F7-BE89-F1BB7C5FB523}|PetShop\\PetShop.csproj|solutionrelative:petshop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CABC8859-C5C2-46F7-BE89-F1BB7C5FB523}|PetShop\\PetShop.csproj|c:\\users\\aluno.senai\\documents\\petshop\\petshop\\petshop\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CABC8859-C5C2-46F7-BE89-F1BB7C5FB523}|PetShop\\PetShop.csproj|solutionrelative:petshop\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CABC8859-C5C2-46F7-BE89-F1BB7C5FB523}|PetShop\\PetShop.csproj|c:\\users\\aluno.senai\\documents\\petshop\\petshop\\petshop\\views\\reservaservico\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CABC8859-C5C2-46F7-BE89-F1BB7C5FB523}|PetShop\\PetShop.csproj|solutionrelative:petshop\\views\\reservaservico\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CABC8859-C5C2-46F7-BE89-F1BB7C5FB523}|PetShop\\PetShop.csproj|c:\\users\\aluno.senai\\documents\\petshop\\petshop\\petshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CABC8859-C5C2-46F7-BE89-F1BB7C5FB523}|PetShop\\PetShop.csproj|solutionrelative:petshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CABC8859-C5C2-46F7-BE89-F1BB7C5FB523}|PetShop\\PetShop.csproj|c:\\users\\aluno.senai\\documents\\petshop\\petshop\\petshop\\controllers\\veterinariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CABC8859-C5C2-46F7-BE89-F1BB7C5FB523}|PetShop\\PetShop.csproj|solutionrelative:petshop\\controllers\\veterinariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CABC8859-C5C2-46F7-BE89-F1BB7C5FB523}|PetShop\\PetShop.csproj|c:\\users\\aluno.senai\\documents\\petshop\\petshop\\petshop\\models\\reservaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,20 +31,12 @@
       "RelativeMoniker": "D:0:0:{CABC8859-C5C2-46F7-BE89-F1BB7C5FB523}|PetShop\\PetShop.csproj|solutionrelative:petshop\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CABC8859-C5C2-46F7-BE89-F1BB7C5FB523}|PetShop\\PetShop.csproj|c:\\users\\aluno.senai\\documents\\petshop\\petshop\\petshop\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CABC8859-C5C2-46F7-BE89-F1BB7C5FB523}|PetShop\\PetShop.csproj|solutionrelative:petshop\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CABC8859-C5C2-46F7-BE89-F1BB7C5FB523}|PetShop\\PetShop.csproj|c:\\users\\aluno.senai\\documents\\petshop\\petshop\\petshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CABC8859-C5C2-46F7-BE89-F1BB7C5FB523}|PetShop\\PetShop.csproj|solutionrelative:petshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CABC8859-C5C2-46F7-BE89-F1BB7C5FB523}|PetShop\\PetShop.csproj|c:\\users\\aluno.senai\\documents\\petshop\\petshop\\petshop\\controllers\\reservaservicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CABC8859-C5C2-46F7-BE89-F1BB7C5FB523}|PetShop\\PetShop.csproj|solutionrelative:petshop\\controllers\\reservaservicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CABC8859-C5C2-46F7-BE89-F1BB7C5FB523}|PetShop\\PetShop.csproj|c:\\users\\aluno.senai\\documents\\petshop\\petshop\\petshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CABC8859-C5C2-46F7-BE89-F1BB7C5FB523}|PetShop\\PetShop.csproj|solutionrelative:petshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CABC8859-C5C2-46F7-BE89-F1BB7C5FB523}|PetShop\\PetShop.csproj|c:\\users\\aluno.senai\\documents\\petshop\\petshop\\petshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,11 +62,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\aluno.senai\\Documents\\Petshop\\petshop\\PetShop\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "PetShop\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\aluno.senai\\Documents\\Petshop\\petshop\\PetShop\\wwwroot\\css\\site.css*",
+              "RelativeToolTip": "PetShop\\wwwroot\\css\\site.css*",
+              "ViewState": "AgIAAO4BAAAAAAAAAAAAwBYCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-16T19:11:00.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ReservaServico.cs",
               "DocumentMoniker": "C:\\Users\\aluno.senai\\Documents\\Petshop\\petshop\\PetShop\\Models\\ReservaServico.cs",
               "RelativeDocumentMoniker": "PetShop\\Models\\ReservaServico.cs",
@@ -70,12 +87,11 @@
               "RelativeToolTip": "PetShop\\Models\\ReservaServico.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T18:50:46.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T18:50:46.817Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\aluno.senai\\Documents\\Petshop\\petshop\\PetShop\\Views\\ReservaServico\\Create.cshtml",
               "RelativeDocumentMoniker": "PetShop\\Views\\ReservaServico\\Create.cshtml",
@@ -88,32 +104,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "login.cshtml",
               "DocumentMoniker": "C:\\Users\\aluno.senai\\Documents\\Petshop\\petshop\\PetShop\\Views\\Account\\login.cshtml",
               "RelativeDocumentMoniker": "PetShop\\Views\\Account\\login.cshtml",
               "ToolTip": "C:\\Users\\aluno.senai\\Documents\\Petshop\\petshop\\PetShop\\Views\\Account\\login.cshtml",
               "RelativeToolTip": "PetShop\\Views\\Account\\login.cshtml",
-              "ViewState": "AgIAAOYAAAAAAAAAAAAcwPkAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAADUBAAAAAAAAAADwv0cBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-16T18:34:23.137Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\aluno.senai\\Documents\\Petshop\\petshop\\PetShop\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "PetShop\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\aluno.senai\\Documents\\Petshop\\petshop\\PetShop\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "PetShop\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABkAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACIAAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-16T17:55:25.792Z"
+              "WhenOpened": "2026-10-16T17:55:25.792Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\aluno.senai\\Documents\\Petshop\\petshop\\PetShop\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "PetShop\\Controllers\\AccountController.cs",
@@ -125,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\Users\\aluno.senai\\Documents\\Petshop\\petshop\\PetShop\\Models\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "PetShop\\Models\\LoginViewModel.cs",
@@ -137,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ReservaServicoController.cs",
               "DocumentMoniker": "C:\\Users\\aluno.senai\\Documents\\Petshop\\petshop\\PetShop\\Controllers\\ReservaServicoController.cs",
               "RelativeDocumentMoniker": "PetShop\\Controllers\\ReservaServicoController.cs",
@@ -149,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "VeterinarioController.cs",
               "DocumentMoniker": "C:\\Users\\aluno.senai\\Documents\\Petshop\\petshop\\PetShop\\Controllers\\VeterinarioController.cs",
               "RelativeDocumentMoniker": "PetShop\\Controllers\\VeterinarioController.cs",
@@ -162,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ClienteController.cs",
               "DocumentMoniker": "C:\\Users\\aluno.senai\\Documents\\Petshop\\petshop\\PetShop\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "PetShop\\Controllers\\ClienteController.cs",
@@ -170,12 +187,11 @@
               "RelativeToolTip": "PetShop\\Controllers\\ClienteController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T17:47:35.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T17:47:35.126Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\aluno.senai\\Documents\\Petshop\\petshop\\PetShop\\Program.cs",
               "RelativeDocumentMoniker": "PetShop\\Program.cs",
@@ -187,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "DbPetShopContext.cs",
               "DocumentMoniker": "C:\\Users\\aluno.senai\\Documents\\Petshop\\petshop\\PetShop\\Models\\DbPetShopContext.cs",
               "RelativeDocumentMoniker": "PetShop\\Models\\DbPetShopContext.cs",
@@ -199,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\aluno.senai\\Documents\\Petshop\\petshop\\PetShop\\appsettings.json",
               "RelativeDocumentMoniker": "PetShop\\appsettings.json",
