@@ -17,101 +17,105 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PetShop
 build_property.RootNamespace = PetShop
-build_property.ProjectDir = C:\Users\aluno.senai\Documents\Petshop\PetShop\PetShop\
+build_property.ProjectDir = C:\Users\aluno.senai\Documents\Petshop\petshop\PetShop\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\aluno.senai\Documents\Petshop\PetShop\PetShop
+build_property.MSBuildProjectDirectory = C:\Users\aluno.senai\Documents\Petshop\petshop\PetShop
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/aluno.senai/Documents/Petshop/PetShop/PetShop/Views/Cliente/Create.cshtml]
+[C:/Users/aluno.senai/Documents/Petshop/petshop/PetShop/Views/Account/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxsb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aluno.senai/Documents/Petshop/petshop/PetShop/Views/Cliente/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aluno.senai/Documents/Petshop/PetShop/PetShop/Views/Cliente/Delete.cshtml]
+[C:/Users/aluno.senai/Documents/Petshop/petshop/PetShop/Views/Cliente/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aluno.senai/Documents/Petshop/PetShop/PetShop/Views/Cliente/Details.cshtml]
+[C:/Users/aluno.senai/Documents/Petshop/petshop/PetShop/Views/Cliente/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aluno.senai/Documents/Petshop/PetShop/PetShop/Views/Cliente/Edit.cshtml]
+[C:/Users/aluno.senai/Documents/Petshop/petshop/PetShop/Views/Cliente/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aluno.senai/Documents/Petshop/PetShop/PetShop/Views/Cliente/Index.cshtml]
+[C:/Users/aluno.senai/Documents/Petshop/petshop/PetShop/Views/Cliente/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aluno.senai/Documents/Petshop/PetShop/PetShop/Views/Home/Index.cshtml]
+[C:/Users/aluno.senai/Documents/Petshop/petshop/PetShop/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aluno.senai/Documents/Petshop/PetShop/PetShop/Views/Home/Privacy.cshtml]
+[C:/Users/aluno.senai/Documents/Petshop/petshop/PetShop/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aluno.senai/Documents/Petshop/PetShop/PetShop/Views/ReservaServico/Create.cshtml]
+[C:/Users/aluno.senai/Documents/Petshop/petshop/PetShop/Views/ReservaServico/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YVNlcnZpY29cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aluno.senai/Documents/Petshop/PetShop/PetShop/Views/ReservaServico/Delete.cshtml]
+[C:/Users/aluno.senai/Documents/Petshop/petshop/PetShop/Views/ReservaServico/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YVNlcnZpY29cRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aluno.senai/Documents/Petshop/PetShop/PetShop/Views/ReservaServico/Details.cshtml]
+[C:/Users/aluno.senai/Documents/Petshop/petshop/PetShop/Views/ReservaServico/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YVNlcnZpY29cRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aluno.senai/Documents/Petshop/PetShop/PetShop/Views/ReservaServico/Edit.cshtml]
+[C:/Users/aluno.senai/Documents/Petshop/petshop/PetShop/Views/ReservaServico/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YVNlcnZpY29cRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aluno.senai/Documents/Petshop/PetShop/PetShop/Views/ReservaServico/Index.cshtml]
+[C:/Users/aluno.senai/Documents/Petshop/petshop/PetShop/Views/ReservaServico/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YVNlcnZpY29cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aluno.senai/Documents/Petshop/PetShop/PetShop/Views/Shared/Error.cshtml]
+[C:/Users/aluno.senai/Documents/Petshop/petshop/PetShop/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aluno.senai/Documents/Petshop/PetShop/PetShop/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/aluno.senai/Documents/Petshop/petshop/PetShop/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aluno.senai/Documents/Petshop/PetShop/PetShop/Views/Veterinario/Create.cshtml]
+[C:/Users/aluno.senai/Documents/Petshop/petshop/PetShop/Views/Veterinario/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmV0ZXJpbmFyaW9cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aluno.senai/Documents/Petshop/PetShop/PetShop/Views/Veterinario/Delete.cshtml]
+[C:/Users/aluno.senai/Documents/Petshop/petshop/PetShop/Views/Veterinario/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmV0ZXJpbmFyaW9cRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aluno.senai/Documents/Petshop/PetShop/PetShop/Views/Veterinario/Details.cshtml]
+[C:/Users/aluno.senai/Documents/Petshop/petshop/PetShop/Views/Veterinario/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmV0ZXJpbmFyaW9cRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aluno.senai/Documents/Petshop/PetShop/PetShop/Views/Veterinario/Edit.cshtml]
+[C:/Users/aluno.senai/Documents/Petshop/petshop/PetShop/Views/Veterinario/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmV0ZXJpbmFyaW9cRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aluno.senai/Documents/Petshop/PetShop/PetShop/Views/Veterinario/Index.cshtml]
+[C:/Users/aluno.senai/Documents/Petshop/petshop/PetShop/Views/Veterinario/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmV0ZXJpbmFyaW9cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aluno.senai/Documents/Petshop/PetShop/PetShop/Views/_ViewImports.cshtml]
+[C:/Users/aluno.senai/Documents/Petshop/petshop/PetShop/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aluno.senai/Documents/Petshop/PetShop/PetShop/Views/_ViewStart.cshtml]
+[C:/Users/aluno.senai/Documents/Petshop/petshop/PetShop/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aluno.senai/Documents/Petshop/PetShop/PetShop/Views/Shared/_Layout.cshtml]
+[C:/Users/aluno.senai/Documents/Petshop/petshop/PetShop/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-m38xo3ciud

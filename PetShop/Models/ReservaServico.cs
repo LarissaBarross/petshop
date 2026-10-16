@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 
 namespace PetShop.Models;
 
@@ -11,13 +10,13 @@ public partial class ReservaServico
 
     public decimal Valor { get; set; }
 
-    public string StatusServico { get; set; } = null!;
+    public string StatusServico { get; set; } = string.Empty;
 
     public int ClienteId { get; set; }
 
     public int VeterinarioId { get; set; }
 
-    public virtual Cliente Cliente { get; set; } = null!;
+    public virtual Cliente? Cliente { get; set; }
 
-    public virtual Veterinario Veterinario { get; set; } = null!;
+    public virtual Veterinario? Veterinario { get; set; }
 }

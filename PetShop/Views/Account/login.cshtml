@@ -1,0 +1,269 @@
+﻿@model appPetShop.Models.LoginViewModel
+
+@{
+    ViewData["Title"] = "Login";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Login - PetShop</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #6c63ff, #918aff);
+        }
+
+        .login-container {
+            width: 900px;
+            max-width: 95%;
+            min-height: 520px;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            overflow: hidden;
+            background-color: #fff;
+            border-radius: 22px;
+            box-shadow: 0 15px 40px rgba(0, 0, 0, .2);
+        }
+
+        .welcome {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 40px;
+            color: #fff;
+            text-align: center;
+            background: linear-gradient(160deg, #6c63ff, #857dff);
+        }
+
+        .welcome .paw {
+            margin-bottom: 20px;
+            font-size: 70px;
+        }
+
+        .welcome h1 {
+            margin-bottom: 12px;
+            font-size: 38px;
+        }
+
+        .welcome p {
+            max-width: 280px;
+            font-size: 18px;
+            line-height: 1.5;
+        }
+
+        .form-area {
+            display: flex;
+            align-items: center;
+            padding: 50px;
+        }
+
+        .form-content {
+            width: 100%;
+        }
+
+        .form-content h2 {
+            margin-bottom: 10px;
+            color: #292f3d;
+            font-size: 30px;
+        }
+
+        .subtitle {
+            margin-bottom: 30px;
+            color: #777;
+        }
+
+        .field {
+            margin-bottom: 20px;
+        }
+
+        .field label {
+            display: block;
+            margin-bottom: 8px;
+            color: #292f3d;
+            font-weight: bold;
+        }
+
+        .field input {
+            width: 100%;
+            height: 50px;
+            padding: 0 15px;
+            border: 1px solid #d8dce8;
+            border-radius: 10px;
+            outline: none;
+            font-size: 16px;
+        }
+
+        .field input:focus {
+            border-color: #6c63ff;
+            box-shadow: 0 0 0 3px rgba(108, 99, 255, .15);
+        }
+
+        .validation-summary {
+            margin-bottom: 20px;
+            color: #c0392b;
+        }
+
+        .field-validation-error {
+            display: block;
+            margin-top: 5px;
+            color: #c0392b;
+            font-size: 13px;
+        }
+
+        .btn-login {
+            width: 100%;
+            height: 50px;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            color: #fff;
+            background-color: #6c63ff;
+            font-size: 16px;
+            font-weight: bold;
+            transition: .2s;
+        }
+
+        .btn-login:hover {
+            background-color: #5148d8;
+        }
+
+        .help {
+            margin-top: 25px;
+            color: #777;
+            text-align: center;
+            font-size: 14px;
+        }
+
+        @@media (max-width: 700px) {
+            .login-container {
+                grid-template-columns: 1fr;
+            }
+
+            .welcome {
+                min-height: 250px;
+                padding: 30px;
+            }
+
+            .welcome h1 {
+                font-size: 30px;
+            }
+
+            .welcome .paw {
+                font-size: 50px;
+            }
+
+            .form-area {
+                padding: 35px 25px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <main class="login-container">
+        <section class="welcome">
+            <div class="paw">🐾</div>
+            <h1>PetShop</h1>
+            <p>
+                Cuide de quem torna seus dias mais felizes.
+            </p>
+        </section>
+
+        <section class="form-area">
+            <div class="form-content">
+                <h2>Bem-vindo!</h2>
+
+                <p class="subtitle">
+                    Informe seu CPF para acessar sua conta.
+                </p>
+
+                <div asp-validation-summary="ModelOnly"
+                     class="validation-summary">
+                </div>
+
+                <form asp-controller="Account"
+                      asp-action="Login"
+                      method="post">
+
+                    @Html.AntiForgeryToken()
+
+                    <div class="field">
+                        <label asp-for="Cpf">CPF</label>
+
+                        <input asp-for="Cpf"
+                               placeholder="000.000.000-00"
+                               maxlength="14"
+                               inputmode="numeric"
+                               autocomplete="username"
+                               autofocus />
+
+                        <span asp-validation-for="Cpf"
+                              class="field-validation-error">
+                        </span>
+                    </div>
+
+                    <button type="submit" class="btn-login">
+                        Entrar
+                    </button>
+                </form>
+
+                <p class="help">
+                    CPF não encontrado?
+                    Faça seu cadastro primeiro.
+                </p>
+            </div>
+        </section>
+    </main>
+
+    <partial name="_ValidationScriptsPartial" />
+
+    <script>
+        const cpfInput = document.getElementById("Cpf");
+
+        if (cpfInput) {
+            cpfInput.addEventListener("input", function () {
+                let cpf = this.value.replace(/\D/g, "");
+
+                cpf = cpf.substring(0, 11);
+
+                if (cpf.length > 9) {
+                    cpf = cpf.replace(
+                        /(\d{3})(\d{3})(\d{3})(\d{1,2})/,
+                        "$1.$2.$3-$4"
+                    );
+                } else if (cpf.length > 6) {
+                    cpf = cpf.replace(
+                        /(\d{3})(\d{3})(\d{1,3})/,
+                        "$1.$2.$3"
+                    );
+                } else if (cpf.length > 3) {
+                    cpf = cpf.replace(
+                        /(\d{3})(\d{1,3})/,
+                        "$1.$2"
+                    );
+                }
+
+                this.value = cpf;
+            });
+        }
+    </script>
+
+</body>
+</html>
